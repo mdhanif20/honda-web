@@ -19,13 +19,17 @@ body{
     font-size: 3rem;
 }
 .header-text-color{
-    /* color: #E0E0E0; */
+    color: #E0E0E0;
 }
 .edit-button{
     font-size: 16px;
     background-color:#E76F51;
     width: 168px;
     height: 44px;
+}
+.edit-button a{
+    text-decoration: none;
+    color: #fff;
 }
 .hedaer-img-margin{
     margin-top: 53px;
@@ -92,3 +96,14 @@ body{
 }
 
 /* question section end here  */
+
+/* collection section start here  */
+.our-collection-img{
+    width: 225px;
+    height: 125px;
+   
+}
+.single-product{
+    color: #E76F51;
+}
+/* collection section end here  */
