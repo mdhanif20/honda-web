@@ -8,6 +8,7 @@ body{
     font-size: 3rem;
 }
 /* common css link for whole website end here  */
+
 /* header area css start here  */
 .header-background{
     background-color: #264653;
@@ -35,12 +36,10 @@ body{
     margin-top: 53px;
 }
 /* header area css end here  */
+
 /* feature section css start here  */
 .feautre-container-edit{
     padding:78px 0px;
-}
-.feature-header{
-    /* font-size: 3rem; */
 }
 .feature-text{
     font-size: 14px;
@@ -53,6 +52,7 @@ body{
     filter: grayscale(80%);
 }
 /* feature section css start here  */
+
 /* clint section css start here  */
 .clint-header-color{
     color: #E76F51;
@@ -79,6 +79,7 @@ body{
     font-size: 14px;
 }
 /* clint section css end here  */
+
 /* question section start here  */
 .question-area{
     margin: 112px 0px;
